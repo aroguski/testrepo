@@ -1,17 +1,1 @@
 7zip
-avast
-ccleaner
-adobe reader
-adobe flash
-all player
-edeklaracje
-java
-notepad++
-skype
-muve downloader
-uplay
-steam
-origin
-battle.net
-coreftp lite
-microsoft money plus
